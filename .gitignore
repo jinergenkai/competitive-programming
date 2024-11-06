@@ -1,0 +1,16 @@
+#comment
+
+// ignore all file exe
+*.exe
+*.bin
+*.o
+
+build/
+
+// ignore folder vscode, cph
+.vscode/
+.cph/
+__pycache__/
+
+//except
+!test.txt
