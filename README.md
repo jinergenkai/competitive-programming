@@ -16,7 +16,6 @@ If you find this repository helpful, please feel free to ⭐️. You can also **
     - [2022](#facebook-hacker-cup-2022)
   - [ICPC (International Collegiate Programming Contest)](#icpc)
     - [2023](#icpc-2023)
-    - [2022](#icpc-2022)
   - [HackerRank](#hackerrank)
     - [Algorithms](#hackerrank-algorithms)
     - [Data Structures](#hackerrank-data-structures)
@@ -40,13 +39,36 @@ This repository serves as a comprehensive collection of competitive programming 
 
 ## Technologies and Languages Used
 
-- **Programming Languages**: Solutions are primarily written in **Python**, **C++**, and **Java**.
+- **Programming Languages**: Solutions are primarily written in **Python**, **C++**.
 - **Algorithms**: Focus on **Dynamic Programming**, **Graph Theory**, **Data Structures**, **Greedy Algorithms**, and **Sorting**.
 
 ---
 
 ## Solutions
 
+
+### Vietnam ICPC (International Collegiate Programming Contest)
+
+#### ICPC 2023
+- Link to the official contest: [Vietnam ICPC Archives](https://icpcvn.github.io/)
+- Several solutions [here](https://icpcarchive.github.io/Vietnam.html)
+
+<!-- - **Regional**:
+  - [Problem A - Example Problem](path/to/solution)
+  - [Problem B - Example Problem](path/to/solution) -->
+
+- **[National](https://oj.vnoi.info/contest/icpc23_national)**:
+  - [A: Angry Birbs](/icpc/2023/national/A.cpp)
+  - [D: Dazzling Card Set](/icpc/2023/national/D.cpp)
+  - [E: Extended Ping Pong](/icpc/2023/national/E.cpp)
+  - [F: Finding RPS Strategy](/icpc/2023/national/F.cpp)
+  - [H: Hard Queries](/icpc/2023/national/H.cpp)
+  - [J: Jumbled Graph](/icpc/2023/national/J.cpp)
+  - [L: Lowest Possible Place](/icpc/2023/national/L.cpp)
+  - [M: MofK's Mysterious Money Making Machine](/icpc/2023/national/M.cpp)
+
+
+<!-- 
 ### Facebook Hacker Cup
 
 #### Facebook Hacker Cup 2023
@@ -56,30 +78,9 @@ This repository serves as a comprehensive collection of competitive programming 
 
 - **Round 2**:
   - [Problem C - Example Problem](path/to/solution)  
-  - [Problem D - Example Problem](path/to/solution)
+  - [Problem D - Example Problem](path/to/solution) -->
 
-#### Facebook Hacker Cup 2022
-- **Round 1**:
-  - [Problem A - Example Problem](path/to/solution)  
-  - [Problem B - Example Problem](path/to/solution)
-
-- **Round 2**:
-  - [Problem C - Example Problem](path/to/solution)  
-  - [Problem D - Example Problem](path/to/solution)
-
-### ICPC (International Collegiate Programming Contest)
-
-#### ICPC 2023
-- **Regionals**:
-  - [Problem A - Example Problem](path/to/solution)
-  - [Problem B - Example Problem](path/to/solution)
-
-#### ICPC 2022
-- **Regionals**:
-  - [Problem A - Example Problem](path/to/solution)
-  - [Problem B - Example Problem](path/to/solution)
-
-### HackerRank
+<!-- ### HackerRank
 
 #### HackerRank Algorithms
 - **Warm-Up**:
@@ -97,7 +98,7 @@ This repository serves as a comprehensive collection of competitive programming 
 
 - **Trees**:
   - [Tree: Preorder Traversal](path/to/solution)
-  - [Tree: Height of a Binary Tree](path/to/solution)
+  - [Tree: Height of a Binary Tree](path/to/solution) -->
 
 ---
 
