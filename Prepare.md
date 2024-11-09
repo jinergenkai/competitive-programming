@@ -24,3 +24,49 @@ rmq
         int k = (int)log2(R - L + 1);
         return __gcd(rmq[L][k], rmq[R - (1 << k) + 1][k]);
     };
+
+
+      vi rawPrime(mx + 1, 1);
+  rawPrime[0] = rawPrime[1] = 0;
+  for (int i = 2; i * i <= mx; i++) {
+    if (rawPrime[i]) {
+      for (int j = i * i; j <= mx; j += i) {
+        rawPrime[j] = 0;
+      }
+    }
+  }
+  vi prime;
+  for (int i = 2; i <= mx; i++) {
+    if (rawPrime[i]) {
+      prime.push_back(i);
+    }
+  }
+
+
+
+
+  #include <bits/stdc++.h>
+using namespace std;
+
+#define fi first
+#define se second
+#define endl '\n'
+#define int long long
+#define all(x) x.begin(),x.end()
+
+typedef pair<int, int> pii; typedef vector<int> vi; typedef long long ll;
+const int inf = 1e9 + 7; const int mod = 998244353; const int N = 1000111;
+
+//* Main function
+void testcase() {
+    
+}
+
+int32_t main() { ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+  if (fopen("input.txt", "r")) { freopen("input.txt", "r", stdin); }
+  int t = 1; 
+  //cin >> t; 
+  while(t--) testcase();
+}
+//   ／))      /)／)
+//  (・   )o  (・   )o
