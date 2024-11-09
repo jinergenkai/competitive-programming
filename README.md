@@ -48,10 +48,10 @@ This repository serves as a comprehensive collection of competitive programming 
 
 
 ### Vietnam ICPC (International Collegiate Programming Contest)
-
-#### ICPC 2023
 - Link to the official contest: [Vietnam ICPC Archives](https://icpcvn.github.io/)
 - Several solutions [here](https://icpcarchive.github.io/Vietnam.html)
+
+#### ICPC 2023
 
 <!-- - **Regional**:
   - [Problem A - Example Problem](path/to/solution)
@@ -67,6 +67,15 @@ This repository serves as a comprehensive collection of competitive programming 
   - [L: Lowest Possible Place](/icpc/2023/national/L.cpp)
   - [M: MofK's Mysterious Money Making Machine](/icpc/2023/national/M.cpp)
 
+#### ICPC 2022
+
+- **[National](https://oj.vnoi.info/contest/icpc22_national)**:
+  - [A: A VCS Problem](/icpc/2022/national/A.cpp)
+  - [F: First Name Last Name](/icpc/2022/national/F.cpp)
+  - [H: Hallway Tilling](/icpc/2022/national/H.cpp)
+  - [I: Inversion](/icpc/2022/national/I.cpp)
+  - [J: Jungle Joint](/icpc/2022/national/J.cpp)
+  - [K: Killer Testcase](/icpc/2022/national/M.cpp)
 
 <!-- 
 ### Facebook Hacker Cup
@@ -121,4 +130,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## More
 
 If you don't find what you are looking for, you can check out my blog site [jine.blog](https://www.example.com) for more solutions or contact me via email at [@jinergenkai](mailto:jinergenkai@gmail.com).
-```
